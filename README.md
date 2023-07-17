@@ -57,6 +57,8 @@ Example of test execution
 
 ![image](./screenshots/Patagonian2.png)
 
-##### A video execution example
+##### Vide execution:
 
-./screenshots/TutorialsPoint.feature.mp4
+<video controls>
+  <source src="https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp4" type="video/mp4">
+</video>
