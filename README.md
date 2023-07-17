@@ -59,6 +59,23 @@ Example of test execution
 
 ##### Vide execution:
 
-<video controls>
-  <source src="https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp4" type="video/mp4">
-</video>
+
+<html>
+<head>
+    <title> videoControl</title>
+    <script type="text/javascript">
+        function loadVideo(self){
+            var fileName=self.files[0];
+            var srcSource=URL.createObjectURL(fileName);
+            targetVideo.src='https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp4';
+            targetVideo.load();
+        }
+    </script>
+</head>
+<body>
+     <h3> Video Demo</h3>
+     <input type="file" name="file" onchange="loadVideo(this);"/>
+     <video id="targetVideo"  width="640" height="480" controls> </video>
+
+</body>
+</html>
