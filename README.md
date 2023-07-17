@@ -59,4 +59,4 @@ Example of test execution
 
 ##### A video execution example
 
- https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp4
+./screenshots/TutorialsPoint.feature.mp4
