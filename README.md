@@ -17,6 +17,11 @@ Cypress tool was used to develop the test suite integrated with Cucumber and Ghe
 * Node
 * npm
 
+### You need to change the Email and the phone on the features "TutorialsPoint.feature" file
+    * Go to https://yopmail.com/es/email-generator and generate a new Email
+    * Copy and replace the generated email on the feature file.
+    * Change the phone from the feature file
+
 
 #### Instruction to run the test
 
