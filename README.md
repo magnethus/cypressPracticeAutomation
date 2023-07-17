@@ -53,9 +53,9 @@ project
 
 Example of test execution
 
-![image](.patagonian/blob/main/screenshots/TutorialsPoint.feature/Patagonian1.png)
+![image](.https://github.com/magnethus/patagonian/blob/main/screenshots/Patagonian1.png)
 
-![image](.patagonian/blob/main/screenshots/TutorialsPoint.feature/Patagonian2.png)
+![image](.https://github.com/magnethus/patagonian/blob/main/screenshots/Patagonian2.png)
 
 ##### A video execution example
 
