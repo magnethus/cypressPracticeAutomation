@@ -12,16 +12,16 @@
 Cypress tool was used to develop the test suite integrated with Cucumber and Gherkin.
 
 
-#### You need to install
-
-* Node
-* npm
-
-### You need to change the Email and the phone on the features "TutorialsPoint.feature" file
+### First you need to change the Email and the phone on the features "TutorialsPoint.feature" file
     * Go to https://yopmail.com/es/email-generator and generate a new Email
     * Copy and replace the generated email on the feature file.
     * Change the phone from the feature file
 
+
+#### You need to install
+
+* Node
+* npm
 
 #### Instruction to run the test
 
