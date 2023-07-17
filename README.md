@@ -57,8 +57,21 @@ Example of test execution
 
 ![image](./screenshots/Patagonian2.png)
 
-##### Vide execution:
+<h3> Video execution:</h3>
 
-<video controls autoplay>
-  <source src="https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp44" type="video/mp4">
-</video>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Deltion Live Streaming</title>
+    <script language="javascript" type="text/javascript" src="../swfobject.js"></script>
+</head>
+
+<body>   
+    <video id="movie" width="460" height="306" preload autoplay>
+        <source src="https://github.com/magnethus/patagonian/blob/main/screenshots/TutorialsPoint.feature.mp44"  type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> 
+    </video>
+</body>
+</html>
+
+ 
