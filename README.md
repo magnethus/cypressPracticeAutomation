@@ -1,4 +1,4 @@
-#   Patagonian-POC
+#   Cypress Automation Practice
  
 
 ## Assestment
